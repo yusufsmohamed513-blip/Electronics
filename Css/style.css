@@ -1,0 +1,93 @@
+.bannersection{
+background-image: url(../images/header\ image.png);
+background-repeat: no-repeat;
+height: 80vh;
+}
+
+.poster{
+    background-image: url(../images/poster\ home\ 1.png);
+    background-repeat: no-repeat;
+    height: 45vh;
+}
+
+.laps{
+     background-image: url(../images/poster\ home\ 2.png);
+    background-repeat: no-repeat;
+    height: 45vh;
+
+}
+.shop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.backs{
+    background-color: #CFF4FC;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    padding: 30px;
+}
+.backs h2{
+    text-align: start;
+    padding: 20px;
+}
+
+.buds{
+    background-image: url(../images/ear\ buds\ poster\ home.png);
+    background-repeat: no-repeat;
+    height: 65vh;
+    gap: 20px;
+    margin-right: 20px;
+    
+}
+.mouse{
+     background-image: url(../images/mouse\ poster\ home.png);
+    background-repeat: no-repeat;
+    height: 65vh;
+    margin-right: 20px;
+}
+.watch{
+     background-image: url(../images/smart\ watch\ poster\ home.png);
+    background-repeat: no-repeat;
+    height: 65vh;
+}
+
+.foots{
+    height: 145vh;
+    padding: 40px;
+    margin-top: 50px;
+}
+
+.container{
+    font-family: comme;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wilreless{
+    background-color: #8cdef0;
+    font-family: comme;
+    font-size: 25px;
+    height: 15vh;
+    padding: 20px;
+    color: white;
+}
+
+h5 a{
+    text-decoration: none;
+    color: black;
+    font-family: comme;
+}
+h5 a:hover{
+    color: #8cdef0;
+    text-decoration: underline;
+}
+.arrow{
+    text-align: right;
+    margin-left: 3rem;
+}
+h4{
+    text-align: center;
+}
